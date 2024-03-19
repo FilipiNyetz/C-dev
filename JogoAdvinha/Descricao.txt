@@ -1,0 +1,3 @@
+Desafio Interativo: O Jogo da Estratégia e Sorte
+
+Este jogo oferece uma experiência única e adaptável, com variáveis como número de jogadores e níveis de dificuldade. Os jogadores podem competir entre si ou sozinhos, escolhendo o nível de dificuldade que desejam enfrentar. Com um número variável de tentativas, cada movimento é crucial para alcançar a vitória. O sistema de pontuação inteligente leva em conta todas as variáveis do jogo, determinando o campeão no final da partida. Com infinitas opções de personalização e desafios únicos, o jogo oferece uma experiência de replay infinita. Prepare-se para testar suas habilidades e estratégias neste jogo emocionante.
